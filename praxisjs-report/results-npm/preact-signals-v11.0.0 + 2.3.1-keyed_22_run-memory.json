@@ -1,0 +1,1 @@
+{"framework":"preact-signals-v11.0.0 + 2.3.1-keyed","keyed":true,"benchmark":"22_run-memory","type":"memory","values":{"DEFAULT":{"min":4.903046607971191,"max":4.903046607971191,"median":4.903046607971191,"mean":4.903046607971191,"stddev":null,"values":[4.903046607971191]}}}

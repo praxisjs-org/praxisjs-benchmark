@@ -1,0 +1,1 @@
+{"framework":"praxisjs-v0.8.0-keyed","keyed":true,"benchmark":"25_run-clear-memory","type":"memory","values":{"DEFAULT":{"min":0.9194574356079102,"max":0.9194574356079102,"median":0.9194574356079102,"mean":0.9194574356079102,"stddev":null,"values":[0.9194574356079102]}}}

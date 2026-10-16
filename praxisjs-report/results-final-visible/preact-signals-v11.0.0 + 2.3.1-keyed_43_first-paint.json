@@ -1,0 +1,1 @@
+{"framework":"preact-signals-v11.0.0 + 2.3.1-keyed","keyed":true,"benchmark":"43_first-paint","type":"size","values":{"DEFAULT":{"min":93.3,"max":93.3,"median":93.3,"mean":93.3,"stddev":null,"values":[93.3]}}}

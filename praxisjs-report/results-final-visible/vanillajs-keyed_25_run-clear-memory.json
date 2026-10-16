@@ -1,0 +1,1 @@
+{"framework":"vanillajs-keyed","keyed":true,"benchmark":"25_run-clear-memory","type":"memory","values":{"DEFAULT":{"min":0.6508331298828125,"max":0.6508331298828125,"median":0.6508331298828125,"mean":0.6508331298828125,"stddev":null,"values":[0.6508331298828125]}}}

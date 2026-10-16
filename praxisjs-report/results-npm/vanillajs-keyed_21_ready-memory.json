@@ -1,0 +1,1 @@
+{"framework":"vanillajs-keyed","keyed":true,"benchmark":"21_ready-memory","type":"memory","values":{"DEFAULT":{"min":0.5628557205200195,"max":0.5628557205200195,"median":0.5628557205200195,"mean":0.5628557205200195,"stddev":null,"values":[0.5628557205200195]}}}
