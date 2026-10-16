@@ -5,8 +5,8 @@ used to measure PraxisJS against other frontend frameworks. The only additions o
 the PraxisJS entry in `frameworks/keyed/praxisjs/` and the report in `praxisjs-report/` (findings,
 archived raw results, `summarize.mjs` that prints the comparison table). Everything else is upstream code: do not edit it.
 
-The git remote is named `upstream` and points at krausest. There is no `origin` yet. Never push to
-`upstream`.
+The `origin` remote is the fork at `praxisjs-org/praxisjs-benchmark` (branch `master`): push there.
+The `upstream` remote points at krausest. Never push to `upstream`.
 
 ---
 
