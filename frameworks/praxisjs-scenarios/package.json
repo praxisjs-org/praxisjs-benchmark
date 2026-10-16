@@ -1,0 +1,23 @@
+{
+  "name": "praxisjs-scenarios",
+  "private": true,
+  "type": "module",
+  "description": "Component-heavy scenarios to compare the published PraxisJS with the local checkout. Not a benchmark entry.",
+  "scripts": {
+    "build-npm": "vite build --config vite.npm.config.ts",
+    "build-local": "vite build --config ../keyed/praxisjs/vite.local.config.ts --outDir dist-local",
+    "build": "npm run build-npm && npm run build-local"
+  },
+  "dependencies": {
+    "@praxisjs/core": "2.2.0",
+    "@praxisjs/decorators": "1.7.0",
+    "@praxisjs/jsx": "0.7.7",
+    "@praxisjs/runtime": "0.7.1"
+  },
+  "devDependencies": {
+    "@praxisjs/css": "^0.3.4",
+    "@praxisjs/vite-plugin": "4.0.6",
+    "typescript": "^6.0.3",
+    "vite": "^8.1.4"
+  }
+}

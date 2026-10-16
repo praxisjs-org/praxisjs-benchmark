@@ -1,0 +1,30 @@
+{
+  "name": "js-framework-benchmark-praxisjs",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "js-framework-benchmark": {
+    "frameworkVersionFromPackage": "@praxisjs/runtime",
+    "frameworkHomeURL": "https://praxisjs.org/",
+    "language": "TypeScript",
+    "repoURL": "https://github.com/praxisjs-org/praxisjs"
+  },
+  "scripts": {
+    "dev": "vite",
+    "typecheck": "tsc --noEmit",
+    "build-prod": "vite build",
+    "build-local": "vite build --config vite.local.config.ts"
+  },
+  "dependencies": {
+    "@praxisjs/core": "2.3.0",
+    "@praxisjs/decorators": "2.0.0",
+    "@praxisjs/jsx": "0.8.0",
+    "@praxisjs/runtime": "0.8.0",
+    "@praxisjs/store": "2.0.5"
+  },
+  "devDependencies": {
+    "@praxisjs/vite-plugin": "4.1.0",
+    "typescript": "^6.0.3",
+    "vite": "^8.1.4"
+  }
+}
